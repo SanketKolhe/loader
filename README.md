@@ -7,7 +7,7 @@ A versatile and customizable repository for creating responsive and visually app
 - **Responsive Design**: Adapts to various screen sizes and devices.
 - **Customizable**: Easily modify styles, colors, and animation speed.
 - **Lightweight**: Minimal impact on performance.
-- **Modern Styling**: Utilizes modern CSS techniques and animations.
+- **Modern Styling**: Utilizes modern CSS techniques.
 - **Easy Integration**: Simple to integrate with existing web projects.
 
 ## Usage
@@ -18,7 +18,7 @@ A versatile and customizable repository for creating responsive and visually app
    ```
 2. **Open the Project**: Navigate to the project directory and open `index.html` in your browser.
 3. **Customization**: Modify the HTML, and CSS files as needed.
-4. **Integration**: Add the profile cards to your web application by linking the necessary files.
+4. **Integration**: Add the loader to your web application by linking the necessary files.
 
 ## Demo
 
